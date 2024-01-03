@@ -6,3 +6,5 @@ script: ./mvnw clean install
 
 notifications:
   email: sankarsathya1999@gmail.com
+
+  
